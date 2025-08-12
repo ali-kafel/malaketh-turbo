@@ -69,7 +69,7 @@ These numbers are from a local network run with 3 validators on a Macbook. Howev
 
 ## License
 
-Copyright 2025 Informal Systems Inc
+Copyright 2025 Circle Internet Group, Inc. All rights reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
